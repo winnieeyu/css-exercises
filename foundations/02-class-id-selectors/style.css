@@ -8,12 +8,12 @@
     font-size: 24px;
 }
 
-.second-element {
+#second-element {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
-.fourth-element {
+#fourth-element {
     background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
