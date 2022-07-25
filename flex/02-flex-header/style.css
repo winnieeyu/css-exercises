@@ -30,3 +30,11 @@ a {
   text-decoration: none;
   margin: 5px;
 }
+
+.left-links {
+  margin-right: auto;
+}
+
+.right-links {
+  margin-left: auto;
+}
