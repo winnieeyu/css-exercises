@@ -50,4 +50,10 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 16px;
+  padding-left: 16px;
+}
+
+.push-right {
+  display: flex;
+  gap: 16px;
 }
