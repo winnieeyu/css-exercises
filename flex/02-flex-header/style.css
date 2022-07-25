@@ -20,6 +20,7 @@ ul {
   list-style-type: none;
   display: flex;
   flex-direction: row;
+  padding-left: 0px;
 }
 
 a {
