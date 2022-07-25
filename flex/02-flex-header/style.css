@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  padding: 10px;
+  padding: 10px 0;
   justify-content: center;
   align-items: center;
 }
@@ -29,7 +29,7 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  margin: 5px;
+  margin: 7px;
 }
 
 .left-links {
