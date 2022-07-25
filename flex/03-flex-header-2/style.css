@@ -13,7 +13,7 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
-  align-items: center;
+  justify-content: space-between;
   padding: 8px;
 }
 
@@ -50,10 +50,12 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 16px;
-  padding-left: 16px;
+  padding: 0;
+  margin: 0;
 }
 
-.push-right {
+.push-left, .push-right {
   display: flex;
   gap: 16px;
+  align-items: center;
 }
