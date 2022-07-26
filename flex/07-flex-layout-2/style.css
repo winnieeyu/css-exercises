@@ -31,6 +31,7 @@ body {
   width: 300px;
   background: royalblue;
   flex-shrink: 0;
+  padding: 16px;
 }
 
 .card {
@@ -40,8 +41,6 @@ body {
   padding: 10px 12px;
   width: 300px;
   height: auto;
-  flex-basis: auto;
-  flex-grow: 1;
 }
 
 .container-1 {
@@ -51,7 +50,6 @@ body {
 
 .container-2 {
   display: flex;
-  flex: 1;
   flex-wrap: wrap;
   padding: 32px;
   gap: 20px 20px;
@@ -59,6 +57,12 @@ body {
 
 ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 16px;
 }
 
 a {
