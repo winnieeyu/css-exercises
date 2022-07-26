@@ -39,8 +39,9 @@ body {
   border-radius: 4px;
   padding: 10px 12px;
   width: 300px;
-  height: 200px;
+  height: auto;
   flex-basis: auto;
+  flex-grow: 1;
 }
 
 .container-1 {
@@ -52,6 +53,7 @@ body {
   display: flex;
   flex: 1;
   flex-wrap: wrap;
+  padding: 32px;
 }
 
 ul {
