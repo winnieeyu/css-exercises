@@ -29,7 +29,7 @@ input {
 .header, .footer {
   display: flex;
   justify-content: space-between;
-  padding: 3px;
+  padding: 15px;
 }
 
 .footer {
@@ -56,4 +56,5 @@ a {
   display: flex;
   gap: 15px;
   padding: 0;
+  margin: 0;
 }
