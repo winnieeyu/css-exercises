@@ -54,6 +54,7 @@ body {
   flex: 1;
   flex-wrap: wrap;
   padding: 32px;
+  gap: 20px 20px;
 }
 
 ul {
