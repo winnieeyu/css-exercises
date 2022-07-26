@@ -37,7 +37,10 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  padding: 32px;
+  padding: 10px 12px;
+  width: 300px;
+  height: 200px;
+  flex-basis: auto;
 }
 
 .container-1 {
