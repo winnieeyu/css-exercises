@@ -30,3 +30,12 @@ input {
   display: flex;
   justify-content: space-between;
 }
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
